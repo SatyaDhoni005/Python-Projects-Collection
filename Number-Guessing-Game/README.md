@@ -38,6 +38,9 @@ The **Number Guessing Game** is a simple Python console game where the computer 
 ---
 
 ## Example Output
+<img width="1130" height="704" alt="Image" src="https://github.com/user-attachments/assets/f32fca57-ecde-4a4e-ba53-d76dc6661155" />
+
+<img width="1117" height="806" alt="Image" src="https://github.com/user-attachments/assets/9c89a9b3-f927-46f8-af89-e55ea85abbf3" />
 
 ## Technologies Used
 - Python 3.x  
