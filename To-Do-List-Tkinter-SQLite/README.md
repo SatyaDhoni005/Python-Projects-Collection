@@ -43,6 +43,7 @@ This project uses **Tkinter** for the graphical interface and **SQLite** for per
 ---
 
 ## Example Output
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/c5377823-066c-4aca-98a8-968074e0b723" />
 <img width="1101" height="466" alt="Image" src="https://github.com/user-attachments/assets/b545818a-340c-4032-997f-3dfbac1f493f" />
 
 ---
