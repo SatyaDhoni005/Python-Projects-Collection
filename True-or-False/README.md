@@ -41,6 +41,7 @@ The **True or False Quiz Game** is a simple Python console application that test
 ---
 
 ## Example Output
+<img width="1151" height="765" alt="Image" src="https://github.com/user-attachments/assets/297f1250-52e1-4601-80c4-4fa2770a74eb" />
 
 ---
 
