@@ -22,7 +22,7 @@ It ensures a balanced mix of alphabets, numbers, and special characters, making 
 - Fully randomized final password output.
 
 ## Example Output
-![Screenshot](https://drive.google.com/file/d/10Mo44TMQZIoJmITg_Ht6tWkAnV3VuWr_/view?usp=drive_link)
+<img width="1000" height="351" alt="Image" src="https://github.com/user-attachments/assets/b81d83ae-a1f2-4eff-a83c-8d7bb8616e2d" />
 
 ## Technologies Used
 - Python  
