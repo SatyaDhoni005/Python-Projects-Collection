@@ -49,10 +49,10 @@ Each project focuses on different programming concepts, ranging from **basic Pyt
    ```bash
    https://github.com/SatyaDhoni005/Python-Projects-Collection.git
 2. Navigate to the project folder:
-   ---bash
+   ```bash
    cd folder-name
 3. Run the Python script:
-   ---bash
+   ```bash
    python filename.py
 
 ## Technologies Used Across Projects
